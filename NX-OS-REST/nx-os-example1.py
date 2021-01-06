@@ -9,8 +9,6 @@ PASSWORD = "cisco"
 
 # Construct URL
 URL = f"https://{IP}/api/aaaLogin.json"
-nl = '\n'
-nr = '\r'
 
 #Create payload and then convert it to JSON object
 payload= {
